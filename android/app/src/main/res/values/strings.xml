@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iam creative</string>
+    <string name="facebook_app_id">418895783404559</string>
+    <string name="fb_login_protocol_scheme">fb418895783404559</string>
+    <string name="facebook_client_token">53f0a929a556f8e3f1f0d3136651b9ef</string>
+</resources>

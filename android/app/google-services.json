@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "599055011108",
+    "firebase_url": "https://iam-creative-default-rtdb.firebaseio.com",
+    "project_id": "iam-creative",
+    "storage_bucket": "iam-creative.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599055011108:android:f8cecac7af6e61bf9937b1",
+        "android_client_info": {
+          "package_name": "com.example.admin_panal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599055011108-u17l2gcg24mo7b647clvma45blm13pmm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin_panal",
+            "certificate_hash": "c7f52603177ba94bf3942f111f8c4e25d562019e"
+          }
+        },
+        {
+          "client_id": "599055011108-vcmjjrbpiu4tmuq1sk6mm5o64hkb0ajb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin_panal",
+            "certificate_hash": "b607be6d38794268814306586eb02c0f1dab3b75"
+          }
+        },
+        {
+          "client_id": "599055011108-oj8o3c944a0g76em1rfmn6r3vburolpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKGxJPrqBQiX7Ys9bB_-hEi0g8z0D51do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599055011108-oj8o3c944a0g76em1rfmn6r3vburolpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599055011108:android:e0444483480643e09937b1",
+        "android_client_info": {
+          "package_name": "com.yemen.iamcreative_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599055011108-bdkjatbl7bbqbkksgns41uq5eps087s4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yemen.iamcreative_app",
+            "certificate_hash": "4134bcd856ab63137d6d696d13c3d9bea1f74657"
+          }
+        },
+        {
+          "client_id": "599055011108-ecg4ccom1ob3fcb4c9m7kur74dtgqv50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yemen.iamcreative_app",
+            "certificate_hash": "c7f52603177ba94bf3942f111f8c4e25d562019e"
+          }
+        },
+        {
+          "client_id": "599055011108-ipuf74efg1auo4d8dm3075khvfjn3ctl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yemen.iamcreative_app",
+            "certificate_hash": "eca98aaa6902a386740bf7c24202fc3bf6890cee"
+          }
+        },
+        {
+          "client_id": "599055011108-odj601l84aetqqlshooviv20lnuka1h3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yemen.iamcreative_app",
+            "certificate_hash": "b607be6d38794268814306586eb02c0f1dab3b75"
+          }
+        },
+        {
+          "client_id": "599055011108-oj8o3c944a0g76em1rfmn6r3vburolpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKGxJPrqBQiX7Ys9bB_-hEi0g8z0D51do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599055011108-oj8o3c944a0g76em1rfmn6r3vburolpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
