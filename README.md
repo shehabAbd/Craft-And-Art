@@ -50,7 +50,6 @@ Eng:Shehab Abdullah Mohammed Mohammed Al Fariee.
   <p> Chat Screens</p> 
   
  ![homeChatScreen](https://user-images.githubusercontent.com/103390602/192404870-c733b4d4-3d26-4304-aa68-2a480cc9ec27.PNG)
-
  ![showChatScreen](https://user-images.githubusercontent.com/103390602/192404926-05d73ba0-9043-4744-a208-3fee3516cbfa.PNG)
 
    <p> واجهه الاعدادات  </p>  
@@ -60,7 +59,6 @@ Eng:Shehab Abdullah Mohammed Mohammed Al Fariee.
   ![sett](https://user-images.githubusercontent.com/103390602/192403240-e20fbd5f-55de-4f48-9524-2c980c5caa7e.PNG)
   
   ![setting Screen](https://user-images.githubusercontent.com/103390602/192403418-0beaa1a3-6506-4ac1-b277-bb12e1c85642.PNG)
-  
   ![Problems](https://user-images.githubusercontent.com/103390602/192404049-6397d35d-bc88-4f6f-9e4c-f26c12ed0810.PNG)
 
 
@@ -104,9 +102,13 @@ Eng:Shehab Abdullah Mohammed Mohammed Al Fariee.
   ![ShowCreativeScreen](https://user-images.githubusercontent.com/103390602/192404376-59077808-038c-4860-a95b-9948b8578461.PNG)
 
   
+   <p> وهاذا فيديو شرح للتطبيق  </p>
+
+   
+
+   Uploading VID-20220925-WA0001.mp4…
+
+
+
+
    <p>واخيــــــــــــــرا نشكركم على المشــــــــاهده ـ </p>
-
-
-
-
-
