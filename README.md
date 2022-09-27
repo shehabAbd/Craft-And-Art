@@ -101,13 +101,6 @@ Eng:Shehab Abdullah Mohammed Mohammed Al Fariee.
   
   ![ShowCreativeScreen](https://user-images.githubusercontent.com/103390602/192404376-59077808-038c-4860-a95b-9948b8578461.PNG)
 
-  
-   <p> وهاذا فيديو شرح للتطبيق  </p>
-
-   
-
-   Uploading VID-20220925-WA0001.mp4…
-
 
 
 
