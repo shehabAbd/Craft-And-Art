@@ -25,7 +25,7 @@ Eng:Shehab Abdullah Mohammed Mohammed Al Fariee.
   
   
   
-  <img src="https://user-images.githubusercontent.com/103390602/192400768-376fa740-8650-4242-a70b-982b1b8cf016.PNG" width="300"> <img src="https://user-images.githubusercontent.com/103390602/192400809-eefea1ae-7f3e-462f-bf71-896d8f683455.PNG" width="300"><img src="https://user-images.githubusercontent.com/103390602/196192305-905bdc25-f41f-43d8-8423-006b285ab5f2.PNG" width="300">
+  <img src="https://user-images.githubusercontent.com/103390602/192400768-376fa740-8650-4242-a70b-982b1b8cf016.PNG" width="250"> <img src="https://user-images.githubusercontent.com/103390602/192400809-eefea1ae-7f3e-462f-bf71-896d8f683455.PNG" width="250"><img src="https://user-images.githubusercontent.com/103390602/196192305-905bdc25-f41f-43d8-8423-006b285ab5f2.PNG" width="250">
   
    <p> واجهات تسجيل الدخول</p> 
    
