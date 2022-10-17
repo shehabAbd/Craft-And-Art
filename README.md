@@ -74,7 +74,7 @@ Eng:Shehab Abdullah Mohammed Mohammed Al Fariee.
   
   <p> Favorite Screens</p>
   
-  <img src="https://user-images.githubusercontent.com/103390602/192404143-f652f7c8-d85a-4feb-834c-8b5f3d121492.png" width="60"><br/> <img src="(https://user-images.githubusercontent.com/103390602/192404176-f2bc2d33-f214-40d2-bd72-5dde3692bd99.PNG" width="350">
+  <img src="https://user-images.githubusercontent.com/103390602/192404143-f652f7c8-d85a-4feb-834c-8b5f3d121492.png" width="60"><br/> <img src="https://user-images.githubusercontent.com/103390602/192404176-f2bc2d33-f214-40d2-bd72-5dde3692bd99.PNG" width="350">
   
     <p> واجهه  البحث  </p>
     
