@@ -7,7 +7,8 @@ Eng:Shehab Abdullah Mohammed Mohammed Al Fariee.
 
 <p> نبذة مختصرة عن التطبيق</p>
  
-![IMG-20221003-WA0001](https://user-images.githubusercontent.com/103390602/194728849-d9d3476b-963d-45f4-84e1-524321a0a6b8.jpg)
+ <img src="https://user-images.githubusercontent.com/103390602/194728849-d9d3476b-963d-45f4-84e1-524321a0a6b8.jpg" width="800">
+
 
 
 
@@ -24,6 +25,27 @@ Eng:Shehab Abdullah Mohammed Mohammed Al Fariee.
   
   
   
+  <img src="https://user-images.githubusercontent.com/103390602/192400768-376fa740-8650-4242-a70b-982b1b8cf016.PNG" width="300"> <img src="https://user-images.githubusercontent.com/103390602/192400809-eefea1ae-7f3e-462f-bf71-896d8f683455.PNG" width="300"><img src="https://user-images.githubusercontent.com/103390602/196192305-905bdc25-f41f-43d8-8423-006b285ab5f2.PNG" width="300">
+  
+   <p> واجهات تسجيل الدخول</p> 
+   
+ 
+
+  <p> Login Screens</p>
+  
+  <img src="https://user-images.githubusercontent.com/103390602/192401475-18585a1b-9755-4ded-b063-83336a608999.jpg" width="50"> <br/> <img src="https://user-images.githubusercontent.com/103390602/192401073-c42bce20-4760-4ed6-8b53-668753992422.PNG" width="250">
+  <img src="https://user-images.githubusercontent.com/103390602/192401081-c217f10f-6722-42d4-a917-8b0bd50264f6.PNG" width="250">
+  
+  
+  <img src="https://user-images.githubusercontent.com/103390602/192400768-376fa740-8650-4242-a70b-982b1b8cf016.PNG" width="250">
+  <img src="https://user-images.githubusercontent.com/103390602/192400768-376fa740-8650-4242-a70b-982b1b8cf016.PNG" width="250">
+  <img src="https://user-images.githubusercontent.com/103390602/192400768-376fa740-8650-4242-a70b-982b1b8cf016.PNG" width="250">
+  <img src="https://user-images.githubusercontent.com/103390602/192400768-376fa740-8650-4242-a70b-982b1b8cf016.PNG" width="250">
+  <img src="https://user-images.githubusercontent.com/103390602/192400768-376fa740-8650-4242-a70b-982b1b8cf016.PNG" width="250">
+  <img src="https://user-images.githubusercontent.com/103390602/192400768-376fa740-8650-4242-a70b-982b1b8cf016.PNG" width="250">
+  <img src="https://user-images.githubusercontent.com/103390602/192400768-376fa740-8650-4242-a70b-982b1b8cf016.PNG" width="250">
+          
+          
   
   ![WellcomOneScreen](https://user-images.githubusercontent.com/103390602/192400768-376fa740-8650-4242-a70b-982b1b8cf016.PNG)
   
@@ -32,9 +54,7 @@ Eng:Shehab Abdullah Mohammed Mohammed Al Fariee.
   ![WellcomThreeScreen](https://user-images.githubusercontent.com/103390602/192400818-c59d27c6-8061-4c18-80bb-9b61788d4e9e.PNG)
   ![ChoosLogin](https://user-images.githubusercontent.com/103390602/192400978-812cc092-c9db-412e-b6b7-f9653e24d17d.PNG)
   
-  <p> واجهات تسجيل الدخول</p>  
-  
-  <p> Login Screens</p>  
+ ////////////////////////////////////////////  
   
   ![Icon1](https://user-images.githubusercontent.com/103390602/192401475-18585a1b-9755-4ded-b063-83336a608999.jpg)
   
