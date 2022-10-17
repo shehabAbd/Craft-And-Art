@@ -64,7 +64,7 @@ Eng:Shehab Abdullah Mohammed Mohammed Al Fariee.
   
   <img src="https://user-images.githubusercontent.com/103390602/192403390-ba8ce6ca-cb88-4b6f-a69a-ba7d8c061153.png" width="60"><br/><img src="https://user-images.githubusercontent.com/103390602/192403436-c8da2753-98ca-44a7-b2a6-81ad0b50ea3c.PNG" width="350">
   
-   <p> واجهه  التعليقات  </p>  
+  <p> واجهه  التعليقات  </p>  
   
   <p> Comment Screens</p>
   
@@ -76,8 +76,10 @@ Eng:Shehab Abdullah Mohammed Mohammed Al Fariee.
   
   <img src="https://user-images.githubusercontent.com/103390602/192404143-f652f7c8-d85a-4feb-834c-8b5f3d121492.png" width="60"><br/> <img src="https://user-images.githubusercontent.com/103390602/192404176-f2bc2d33-f214-40d2-bd72-5dde3692bd99.PNG" width="350">
   
-    <p> واجهه  البحث  </p>
+  
+  
     
+  <p> واجهه  البحث  </p>  
   <p> Search Screen</p>
   
   <img src="https://user-images.githubusercontent.com/103390602/192404256-514f5dd5-1ad4-48ea-a816-f11f90435e9c.PNG" width="300"><img src="https://user-images.githubusercontent.com/103390602/192404338-44b46636-bab6-47e7-b69d-40cbef1c77f6.PNG" width="300">
