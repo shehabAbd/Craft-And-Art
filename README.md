@@ -62,19 +62,19 @@ Eng:Shehab Abdullah Mohammed Mohammed Al Fariee.
   
   <p> Profile Screens</p>
   
-  <img src="https://user-images.githubusercontent.com/103390602/192403390-ba8ce6ca-cb88-4b6f-a69a-ba7d8c061153.png" width="60"><br/><img src="https://user-images.githubusercontent.com/103390602/192403436-c8da2753-98ca-44a7-b2a6-81ad0b50ea3c.PNG" width="600">
+  <img src="https://user-images.githubusercontent.com/103390602/192403390-ba8ce6ca-cb88-4b6f-a69a-ba7d8c061153.png" width="60"><br/><img src="https://user-images.githubusercontent.com/103390602/192403436-c8da2753-98ca-44a7-b2a6-81ad0b50ea3c.PNG" width="350">
   
    <p> واجهه  التعليقات  </p>  
   
   <p> Comment Screens</p>
   
-  <img src="https://user-images.githubusercontent.com/103390602/192403765-6dd68e16-d9d1-473f-9448-06feaa4aa2c9.png" width="60"><br/><img src="https://user-images.githubusercontent.com/103390602/192403830-fc8912ed-63f1-4b43-b6a9-0dbc51871e87.PNG" width="600">
+  <img src="https://user-images.githubusercontent.com/103390602/192403765-6dd68e16-d9d1-473f-9448-06feaa4aa2c9.png" width="60"><br/><img src="https://user-images.githubusercontent.com/103390602/192403830-fc8912ed-63f1-4b43-b6a9-0dbc51871e87.PNG" width="350">
   
   <p> واجهه  المفضلة  </p> 
   
   <p> Favorite Screens</p>
   
-  <img src="https://user-images.githubusercontent.com/103390602/192404143-f652f7c8-d85a-4feb-834c-8b5f3d121492.png" width="60"><br/> <img src="(https://user-images.githubusercontent.com/103390602/192404176-f2bc2d33-f214-40d2-bd72-5dde3692bd99.PNG" width="600">
+  <img src="https://user-images.githubusercontent.com/103390602/192404143-f652f7c8-d85a-4feb-834c-8b5f3d121492.png" width="60"><br/> <img src="(https://user-images.githubusercontent.com/103390602/192404176-f2bc2d33-f214-40d2-bd72-5dde3692bd99.PNG" width="350">
   
     <p> واجهه  البحث  </p>
     
@@ -84,7 +84,7 @@ Eng:Shehab Abdullah Mohammed Mohammed Al Fariee.
   
   <p> واجهه  عرض الحرفيين  </p>
   
-  <img src="https://user-images.githubusercontent.com/103390602/192404376-59077808-038c-4860-a95b-9948b8578461.PNG" width="600">
+  <img src="https://user-images.githubusercontent.com/103390602/192404376-59077808-038c-4860-a95b-9948b8578461.PNG" width="350">
           
           
   
